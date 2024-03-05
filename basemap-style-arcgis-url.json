@@ -1,5 +1,5 @@
 {
-  "glyphs": "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/resources/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/resources/fonts/{fontstack}/{range}.pbf?token=AAPK6380af088b344e129f58521554769edbdx36s2ZyRRdVvZZUtlyJLJ8xwY3T1AFvjl7vfl7aVlDRduhtQO-mujlgznaSZ_TW",
   "layers": [
     {
       "filter": ["==", "_symbol", 0],
@@ -7395,7 +7395,7 @@
     "esri": {
       "type": "vector",
       "tiles": [
-        "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf"
+        "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf?token=AAPK6d3387ab1d38400b90dee60ed7aabcccF-zdnSVpmOM08a7F51QwBSNcuYJKEv0UD3OjcZyv-NH6X5DVbSlYhhcyOgrv6hH1"
       ],
       "minzoom": 0
     }

@@ -35829,17 +35829,17 @@
       "type": "symbol"
     }
   ],
-  "sources": {
-    "esri": {
-      "type": "vector",
-      "tiles": [
-        "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf?token=AAPK6d3387ab1d38400b90dee60ed7aabcccF-zdnSVpmOM08a7F51QwBSNcuYJKEv0UD3OjcZyv-NH6X5DVbSlYhhcyOgrv6hH1"
-      ],
-      "minzoom": 0,
-      "attribution": "Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, © OpenStreetMap contributors, and the GIS User Community",
+"sources": {
+  "esri": {
+    "type": "vector",
+    "tiles": [
+      "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf?token=AAPK6d3387ab1d38400b90dee60ed7aabcccF-zdnSVpmOM08a7F51QwBSNcuYJKEv0UD3OjcZyv-NH6X5DVbSlYhhcyOgrv6hH1"
+    ],
+    "minzoom": 0,
+     "attribution": "Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, © OpenStreetMap contributors, and the GIS User Community",
       "copyrightText": "Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, © OpenStreetMap contributors, and the GIS User Community"
-    }
-  },
-  "sprite": "https://cdn.arcgis.com/sharing/rest/content/items/de26a3cf4cc9451298ea173c4b324736/resources/styles/../sprites/sprite",
-  "version": 8
+  }
+},
+"sprite": "https://cdn.arcgis.com/sharing/rest/content/items/de26a3cf4cc9451298ea173c4b324736/resources/styles/../sprites/sprite",
+"version": 8
 }

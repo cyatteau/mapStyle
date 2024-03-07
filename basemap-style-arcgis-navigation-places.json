@@ -38143,13 +38143,16 @@
   ],
   "sources": {
     "esri": {
-      "type": "vector",
+      "attribution": "Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, © OpenStreetMap contributors, and the GIS User Community",
+      "copyrightText": "Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, © OpenStreetMap contributors, and the GIS User Community",
       "tiles": [
-        "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf?token=AAPK6d3387ab1d38400b90dee60ed7aabcccF-zdnSVpmOM08a7F51QwBSNcuYJKEv0UD3OjcZyv-NH6X5DVbSlYhhcyOgrv6hH1"
+        "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf?token=AAPK6380af088b344e129f58521554769edbdx36s2ZyRRdVvZZUtlyJLJ8xwY3T1AFvjl7vfl7aVlDRduhtQO-mujlgznaSZ_TW"
       ],
-      "minzoom": 0
+      "type": "vector"
     },
     "esri-places": {
+      "attribution": "Esri, Foursquare",
+      "copyrightText": "Esri, Foursquare",
       "tiles": [
         "https://basemaps-api.arcgis.com/arcgis/rest/services/World_Places_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf?token=AAPK6d3387ab1d38400b90dee60ed7aabcccF-zdnSVpmOM08a7F51QwBSNcuYJKEv0UD3OjcZyv-NH6X5DVbSlYhhcyOgrv6hH1"
       ],
